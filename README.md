@@ -4,3 +4,9 @@ Curso para aprender a trabalhar com versionamento de código e repositórios rem
 testando modificações no arquivo
 diretamente do vs code
 ...
+
+novas modificações
+bla bla
+ple ple
+
+parmeraa
