@@ -10,3 +10,5 @@ bla bla
 ple ple
 
 parmeraa
+\n 
+boraaaaaaaa
